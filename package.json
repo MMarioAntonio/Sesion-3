@@ -13,6 +13,6 @@
   "author": "Mario Antonio <jirafa1993@hotmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
